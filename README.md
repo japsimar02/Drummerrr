@@ -1,6 +1,6 @@
 # Drummerrr
 Click [here](https://japsimar02.github.io/Drummerrr/) to go to the website
-- A web app to play different drum sounds, by pressing keys
+- A web app to play different drum sounds, by pressing keys on-screen, or using your keyboard
 - Use auto-music to generate random music stream with the drum sounds
 - Allows changing the volume using a slider volume
 - Allows to change the theme to dark or light
